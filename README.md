@@ -1,16 +1,10 @@
 # Jax
 
-<div align="center">
-  <img src="./assets/nasa.png" alt="Ex-NASA Scientific Systems" />
-  <img src="./assets/ex-nasa.png" alt="Ex-NASA Scientific Systems" />
-  <img src="assets/native.png" alt="AI Native" />
-</div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MidActionJax&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/MidActionJax/github-profile-trophy">
-    <img src="https://github-profile-trophy-five-gamma.vercel.app/?username=MidActionJax&theme=radical" alt="GitHub Trophies" />
-  </a>
+  <img src="./assets/nasa.png" alt="NASA" height="90" align="middle" /><img src="./assets/ex-nasa.png" alt="Ex-NASA Scientific Systems" height="90" align="middle" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/native.png" alt="AI Native" height="90" align="middle" />
 </div>
 
 <br/>
@@ -31,7 +25,7 @@ I build things that feel like the future: autonomous AI systems, scientific inte
 
 ## 🌠 Featured Work
 - 📈 **[midas](https://github.com/MidActionJax/midas):** An autonomous, event-driven quantitative trading engine for futures.
-- 🌌 **[hubble-buffer-simulation](https://github.com/MidActionJax/hubble-buffer-simulation):** A simulation of relativistic quantum information and decoherence in expanding spacetimes.
+- 🌌 **[Hubble Buffer Simulation](https://github.com/MidActionJax/hubble-buffer-simulation):** A simulation of relativistic quantum information and decoherence in expanding spacetimes.
 
 ---
 
@@ -93,7 +87,14 @@ I build things that feel like the future: autonomous AI systems, scientific inte
 </div>
 
 ---
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=MidActionJax&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/MidActionJax/github-profile-trophy">
+    <img src="https://github-profile-trophy-five-gamma.vercel.app/?username=MidActionJax&theme=radical" alt="GitHub Trophies" />
+  </a>
+</div>
 
+---
 ## 📫 Let’s Connect
 - 💼 **LinkedIn:** [jaxon-doolittle](https://www.linkedin.com/in/jaxondoolittle/)
 - 📧 **Email:** [jaxonjdoolittle@gmail.com](mailto:jaxonjdoolittle@gmail.com)
