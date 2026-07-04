@@ -1,4 +1,4 @@
-# 🚀 Jaxon Doolittle
+# Jax
 
 <div align="center">
   <img src="https://img.shields.io/badge/AI%20Native-8A2BE2?style=for-the-badge&logo=python" alt="AI Native" />
