@@ -1,8 +1,9 @@
 # Jax
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AI%20Native-8A2BE2?style=for-the-badge&logo=python" alt="AI Native" />
-  <img src="https://img.shields.io/badge/Ex--NASA-0A66C2?style=for-the-badge&logo=rocket" alt="Ex-NASA" />
+  <img src="./assets/nasa.png" alt="Ex-NASA Scientific Systems" />
+  <img src="./assets/ex-nasa.png" alt="Ex-NASA Scientific Systems" />
+  <img src="./assets/native.png" alt="AI Native" />
 </div>
 
 <div align="center">
