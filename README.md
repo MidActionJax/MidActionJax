@@ -3,7 +3,7 @@
 <div align="center">
   <img src="./assets/nasa.png" alt="Ex-NASA Scientific Systems" />
   <img src="./assets/ex-nasa.png" alt="Ex-NASA Scientific Systems" />
-  <img src="./assets/native.png" alt="AI Native" />
+  <img src="assets/native.png" alt="AI Native" />
 </div>
 
 <div align="center">
