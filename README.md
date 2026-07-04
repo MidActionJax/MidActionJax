@@ -86,10 +86,10 @@ I build things that feel like the future: autonomous AI systems, scientific inte
 
 ## 📊 GitHub Pulse
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MidActionJax&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MidActionJax&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=MidActionJax&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=MidActionJax&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</div>
 
 ---
 
@@ -109,5 +109,5 @@ I build things that feel like the future: autonomous AI systems, scientific inte
 <br/>
 
 <div align="center">
-  <i>"I don’t just build software. I build the kind of systems that make people stop and say, ‘wait… that’s actually insane.’"</i>
+  <i>"i code sometimes..."</i>
 </div>
