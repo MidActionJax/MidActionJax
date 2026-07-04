@@ -1,13 +1,8 @@
 # Jax
 
-
 <div align="center">
-  <img src="./assets/nasa.png" alt="NASA" height="90" align="middle" /><img src="./assets/ex-nasa.png" alt="Ex-NASA Scientific Systems" height="90" align="middle" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/native.png" alt="AI Native" height="90" align="middle" />
+  <img src="./assets/37.png" style="width: 100%; max-width: 500px; height: auto;" alt="Nasa" />
 </div>
-
-<br/>
 
 **Ex-NASA & MIT AI Researcher | Software Developer | Lead AI Engineer @ Shrood**
 
