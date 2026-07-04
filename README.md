@@ -1,7 +1,7 @@
 # Jax
 
 <div align="center">
-  <img src="./assets/37.png" style="width: 100%; max-width: 500px; height: auto;" alt="Nasa" />
+  <img src="./assets/37.png" style="width: 100%; max-width: 350px; height: auto;" alt="Nasa" />
 </div>
 
 **Ex-NASA & MIT AI Researcher | Software Developer | Lead AI Engineer @ Shrood**
